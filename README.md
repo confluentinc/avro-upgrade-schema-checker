@@ -1,0 +1,1 @@
+# avro-upgrade-schema-checker
